@@ -1,0 +1,123 @@
+{
+  "name": "English",
+  "keys": [
+    [
+      {
+        "label": "q",
+        "action": "q"
+      },
+      {
+        "label": "w",
+        "action": "w"
+      },
+      {
+        "label": "e",
+        "action": "e"
+      },
+      {
+        "label": "r",
+        "action": "r"
+      },
+      {
+        "label": "t",
+        "action": "t"
+      },
+      {
+        "label": "y",
+        "action": "y"
+      },
+      {
+        "label": "u",
+        "action": "u"
+      },
+      {
+        "label": "i",
+        "action": "i"
+      },
+      {
+        "label": "o",
+        "action": "o"
+      },
+      {
+        "label": "p",
+        "action": "p"
+      }
+    ],
+    [
+      {
+        "label": "a",
+        "action": "a"
+      },
+      {
+        "label": "s",
+        "action": "s"
+      },
+      {
+        "label": "d",
+        "action": "d"
+      },
+      {
+        "label": "f",
+        "action": "f"
+      },
+      {
+        "label": "g",
+        "action": "g"
+      },
+      {
+        "label": "h",
+        "action": "h"
+      },
+      {
+        "label": "j",
+        "action": "j"
+      },
+      {
+        "label": "k",
+        "action": "k"
+      },
+      {
+        "label": "l",
+        "action": "l"
+      }
+    ],
+    [
+      {
+        "label": "shift",
+        "action": "shift"
+      },
+      {
+        "label": "z",
+        "action": "z"
+      },
+      {
+        "label": "x",
+        "action": "x"
+      },
+      {
+        "label": "c",
+        "action": "c"
+      },
+      {
+        "label": "v",
+        "action": "v"
+      },
+      {
+        "label": "b",
+        "action": "b"
+      },
+      {
+        "label": "n",
+        "action": "n"
+      },
+      {
+        "label": "m",
+        "action": "m"
+      },
+      {
+        "label": "del",
+        "action": "delete"
+      }
+    ]
+  ]
+}
